@@ -1,5 +1,5 @@
 //Problem link : https://leetcode.com/problems/n-th-tribonacci-number/
-//Time complexity : 
+//Time complexity :  O(N)
 
 
 class Solution {
